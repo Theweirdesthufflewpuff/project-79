@@ -1,32 +1,15 @@
-.body_backgorund {
-    background-image: url("bg1.jpg");
-    background-position: center;
-    background-size: cover;
-  }
-  body{
-    cursor: pointer;
-  }
-  h1
-  {
-      color: rgb(100, 22, 145); 
-      font-size: 40px;
-  }
-  #myCanvas
-  {
-      border-width:10px;
-      background-color: rgb(129, 255, 171); 
-      border-style:ridge;
-  }
+#submit_button {
+margin-top: 20px ;
+margin-bottom: 20px ;
+}
+#sort_button {
+    
+        margin-top: 20px ;
+        margin-bottom: 20px ;
+        display: none ;
+}
+input {
 
-  button {
-    background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px 42px;
-    font-size: 16px;
-  }
+margin:10px;
 
-  input
-  {
-    margin-right: 20px;
-  }
+}
